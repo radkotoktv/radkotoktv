@@ -77,6 +77,6 @@
 
 <ul align="center" style="list-style-type: none;">
     <li>
-        I participated in the 2025 edition of <a href="www.fmicodes.com">FMI{Codes}</a>, the Faculty of Mathematics and Informatics' annual hackathon. There, me and my team presented our project <a href="https://github.com/Alexander1022/social-flutter">Fly Away</a>. We earned 7<sup>th</sup> place in the competition, out of a total of 18 teams. The replay of our presentation can be found <a href="https://youtu.be/UXKOYHhelAc?t=14962">here</a>.
+        I participated in the 2025 edition of <a href="https://www.fmicodes.com">FMI{Codes}</a>, the Faculty of Mathematics and Informatics' annual hackathon. There, me and my team presented our project <a href="https://github.com/Alexander1022/social-flutter">Fly Away</a>. We earned 7<sup>th</sup> place in the competition, out of a total of 18 teams. The replay of our presentation can be found <a href="https://youtu.be/UXKOYHhelAc?t=14962">here</a>.
     </li>
 </ul>
