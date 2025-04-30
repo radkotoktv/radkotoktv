@@ -16,6 +16,11 @@
     </a>
 </div>
 
+<br>
+<div align="center"">
+    <a href="https://github.com/radkotoktv"><img align="center" src="https://github-readme-stats.vercel.app/api?username=radkotoktv&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Radkotoktv's github stats" /></a>
+</div>
+
 <h2 align="center">👾 Highlighted Projects</h2>
 
 <ul align="center" style="list-style-type: none;">
